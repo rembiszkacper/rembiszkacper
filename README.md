@@ -1,3 +1,4 @@
+[![Header](https://github.com/rembiszkacper/rembiszkacper/blob/main/banner.png "Header")]
 <h1 align="center">Hi 👋, I'm Kacper</h1>
 <h3 align="center">4th year high school student. Mobile application developer - coding in Flutter</h3>
 
