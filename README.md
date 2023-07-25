@@ -1,6 +1,6 @@
 ![Header](https://github.com/rembiszkacper/rembiszkacper/blob/main/banner.png "Header")
 <h1 align="center">Hi 👋, I'm Kacper</h1>
-<h3 align="center">4th year high school student.</h3>
+<h3 align="center">5th year high school student.</h3>
 <h3 align="center">Mobile application developer - coding in Flutter.</h3>
 
 <h3 align="left">You can reach me out:</h3>
